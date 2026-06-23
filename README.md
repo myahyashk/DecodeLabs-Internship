@@ -18,7 +18,7 @@ GitHub: [@myahyashk](https://github.com/myahyashk)
 > A responsive web interface built with pure HTML, CSS & Vanilla JS.
 
 - 🔗 **Repo:** [myahyashk/nova-responsive-interface](https://github.com/myahyashk/nova-responsive-interface)
-- 🌐 **Live Demo:** [View on GitHub Pages](https://myahyashk.github.io/nova-responsive-interface)
+- 🌐 **Live Demo:** [View on GitHub Pages](https://myahyashk.github.io/nova-responsive-interface/)
 - 🛠 **Stack:** HTML · CSS · Vanilla JS
 - 📌 **Status:** ✅ Completed & Submitted
 
