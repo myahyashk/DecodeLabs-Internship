@@ -22,7 +22,16 @@ GitHub: [@myahyashk](https://github.com/myahyashk)
 - 🛠 **Stack:** HTML · CSS · Vanilla JS
 - 📌 **Status:** ✅ Completed & Submitted
 
+
+### 02 — Nova API Foundations
+> A backend API foundation built with Node.js and Express.js.
+
+- 🔗 **Repo:** [myahyashk/nova-api-foundations](https://github.com/myahyashk/nova-api-foundations)
+- 🛠 **Stack:** Node.js · Express.js · JavaScript
+- 📌 **Status:** ✅ Completed & Submitted
+
 ---
+
 
 *More projects coming soon as the internship progresses.*
 
