@@ -30,6 +30,15 @@ GitHub: [@myahyashk](https://github.com/myahyashk)
 - 🛠 **Stack:** Node.js · Express.js · JavaScript
 - 📌 **Status:** ✅ Completed & Submitted
 
+
+### 03 — Nova Data Vault
+> Database integration project featuring MongoDB and CRUD operations.
+
+- 🔗 **Repo:** [myahyashk/nova-data-vault](https://github.com/myahyashk/nova-data-vault)
+- 🛠 **Stack:** Node.js · Express.js · MongoDB · Mongoose
+- 📌 **Status:** ✅ Completed & Submitted
+
+---
 ---
 
 
