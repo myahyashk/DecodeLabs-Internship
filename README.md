@@ -38,6 +38,16 @@ GitHub: [@myahyashk](https://github.com/myahyashk)
 - 🛠 **Stack:** Node.js · Express.js · MongoDB · Mongoose
 - 📌 **Status:** ✅ Completed & Submitted
 
+
+### 04 — Nova Workspace
+> A modern full-stack productivity workspace built with the MERN stack, allowing users to manage projects, tasks, notes, bookmarks, and developer resources through an intuitive dashboard.
+
+- 🔗 **Repo:** [myahyashk/Nova](https://github.com/myahyashk/Nova)
+- 🌐 **Live Demo:** [View on Vercel](https://YOUR-VERCEL-LINK.vercel.app)
+- 🛠 **Stack:** MongoDB · Express.js · React · Node.js · Tailwind CSS
+- ✨ **Features:** Authentication · Projects · Tasks · Notes · Bookmarks · Developer Resources · Dashboard · REST API · Responsive UI
+- 📌 **Status:** ✅ Completed & Submitted
+
 ---
 ---
 
